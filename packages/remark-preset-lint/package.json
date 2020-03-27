@@ -1,5 +1,5 @@
 {
-  "name": "remark-preset-lint-unsmudged",
+  "name": "@unsmudged/remark-preset-lint",
   "version": "0.0.1",
   "description": "A Remark Lint preset using the core rules.  The preset is developed to assist reading and writing Markdown documents and improve overall accessibility for coders with additional needs.",
   "keywords": [],
