@@ -1,7 +1,7 @@
 {
   "name": "@unsmudged/remark-preset-lint",
   "version": "0.0.1",
-  "description": "A Remark Lint preset using the core rules.  The preset is developed to assist reading and writing Markdown documents and improve overall accessibility for coders with additional needs.",
+  "description": "A Remark Lint preset which pulls in other @unsmudged presets.  The intention of the @unsmudged presets are to assist reading and writing Markdown documents and improve overall accessibility for the community as a whole.",
   "keywords": [],
   "homepage": "https://unsmudged.github.io",
   "bugs": {
