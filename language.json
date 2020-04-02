@@ -1,0 +1,10 @@
+{
+	"knownWords": [
+		"blockquote",
+		"linebreak",
+		"url",
+		"html",
+		"urls",
+		"toplevel"
+	]
+}
